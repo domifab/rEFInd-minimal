@@ -1,8 +1,9 @@
 ## Minimalistic rEFInd theme [DARK]
 
+This is a fork of https://github.com/EvanPurkhiser/rEFInd-minimal theme.
+
 [rEFInd](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
-based systems. This is a fork of https://github.com/EvanPurkhiser/rEFInd-minimal theme.
-It changes the icon colors to fit onto dark backgrounds. 
+based systems. 
 
 ![rEFInd minimal dark](preview.png)
 
