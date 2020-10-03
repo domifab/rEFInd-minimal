@@ -1,4 +1,4 @@
-## Minimalistic rEFInd theme [DARK]
+## Minimalistic rEFInd theme dark
 
 This is a fork of https://github.com/EvanPurkhiser/rEFInd-minimal theme.
 
